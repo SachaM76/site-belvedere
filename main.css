@@ -1,0 +1,41 @@
+
+html,boddy, {
+    margin:0;
+    padding: 0;
+}
+
+header{
+    --thm_color: #AE99EF;
+}
+
+.icon{
+    width: 4%;
+}
+/*==================================MENU */
+
+#nav__1 {
+    border: solid brown 3px;
+    background-color: var(--thm_color);
+    height: 81px;
+}
+
+#menu__1 {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3%;
+}
+/*==================================MENU PRINCIPAL */
+
+#nav__principal{
+    border: solid brown 3px;
+    height: 84px;
+}
+
+#menu__Principal {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3%;
+}
+
